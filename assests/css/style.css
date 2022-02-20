@@ -26,6 +26,7 @@ header {
     background-size: cover;
     background-position: 80%;
     background-attachment: fixed;
+    z-index: 9000
 }
 header h1 {
     font-weight: bold;
